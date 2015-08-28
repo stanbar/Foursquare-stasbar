@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColorPrimary">@color/textColorPrimary</item>
+        <item name="android:textColorSecondary">@color/textColorSecondary</item>
+    </style>
+    <style name="RippleEffect">
+        <item name="rv_color">#EEE</item>
+        <item name="rv_alpha">200</item>
+        <item name="rv_zoom">true</item>
+        <item name="rv_zoomScale">1.02</item>
+    </style>
+
+</resources>
